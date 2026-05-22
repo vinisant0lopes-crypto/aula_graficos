@@ -1,0 +1,55 @@
+#canvas_space{
+    width: 40%;
+    height: 60%;
+    background-color: rgba(59, 59, 59, 0.103);
+    border: 1px solid black;
+    border-radius: 25px;
+    justify-self: center;
+    margin-top: 25px;
+}
+
+#canvas_space2{
+    width: 40%;
+    max-height: 40%;
+    background-color: rgba(59, 59, 59, 0.103);
+    border: 1px solid black;
+    border-radius: 25px;
+    justify-self: center;
+    margin-top: 25px;
+}
+
+#canvas_space3{
+    width: 40%;
+    height: 40%;
+    background-color: rgba(59, 59, 59, 0.103);
+    border: 1px solid black;
+    border-radius: 25px;
+    justify-self: center;
+    margin-top: 25px;
+}
+
+#canvas_space4{
+    width: 40%;
+    height: 40%;
+    background-color: rgba(59, 59, 59, 0.103);
+    border: 1px solid black;
+    border-radius: 25px;
+    justify-self: center;
+    margin-top: 25px;
+}
+
+canvas{
+    justify-self: center
+}
+
+.charts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.charts2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
